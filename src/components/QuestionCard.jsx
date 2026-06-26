@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { addErrorReport } from '../utils/storage.js'
 
 // Symbol-font chars mapped into Unicode Private Use Area by broken PDF extraction
 // e.g.  (Symbol 'K'),  (Symbol '+'),  (Symbol '×')
@@ -60,10 +61,16 @@ export default function QuestionCard({
 }) {
   const [showAnswer, setShowAnswer] = useState(false)
   const [myAnswer, setMyAnswer] = useState('')
+  const [reportOpen, setReportOpen] = useState(false)
+  const [reportNote, setReportNote] = useState('')
+  const [reportSent, setReportSent] = useState(false)
 
   useEffect(() => {
     setShowAnswer(false)
     setMyAnswer('')
+    setReportOpen(false)
+    setReportNote('')
+    setReportSent(false)
   }, [question?.id])
 
   if (!question) {
@@ -150,7 +157,52 @@ export default function QuestionCard({
         >
           {isFavorite ? '移除最愛' : '加入我的最愛'}
         </button>
+        <button
+          type="button"
+          onClick={() => { setReportOpen(v => !v); setReportSent(false) }}
+          className="rounded-md border border-gray-300 px-3 py-1.5 text-sm font-medium text-gray-500 hover:bg-gray-50"
+        >
+          回報錯誤
+        </button>
       </div>
+
+      {/* error report form */}
+      {reportOpen && (
+        <div className="rounded-md border border-orange-200 bg-orange-50 p-3 space-y-2">
+          {reportSent ? (
+            <p className="text-sm text-orange-700">已記錄，可至「錯誤回報」頁面查看與修改。</p>
+          ) : (
+            <>
+              <p className="text-xs font-medium text-orange-700">回報這題的錯誤（題目有誤、答案有誤、缺少表格…）</p>
+              <textarea
+                value={reportNote}
+                onChange={(e) => setReportNote(e.target.value)}
+                rows={3}
+                placeholder="說明問題，例如：答案有誤，應為…"
+                className="w-full rounded border border-orange-200 bg-white p-2 text-sm text-gray-900"
+              />
+              <button
+                type="button"
+                disabled={!reportNote.trim()}
+                onClick={() => {
+                  addErrorReport({
+                    questionId: question.id,
+                    questionText: question.question,
+                    category: question.category,
+                    page: question.page,
+                    note: reportNote.trim(),
+                  })
+                  setReportSent(true)
+                  setReportNote('')
+                }}
+                className="rounded-md bg-orange-500 px-3 py-1.5 text-sm font-medium text-white hover:bg-orange-600 disabled:opacity-40"
+              >
+                送出回報
+              </button>
+            </>
+          )}
+        </div>
+      )}
 
       {/* answer */}
       {showAnswer && (

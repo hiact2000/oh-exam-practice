@@ -4,6 +4,7 @@ import Practice from './pages/Practice.jsx'
 import WrongQuestions from './pages/WrongQuestions.jsx'
 import Favorites from './pages/Favorites.jsx'
 import Search from './pages/Search.jsx'
+import ErrorReports from './pages/ErrorReports.jsx'
 
 const navLinkClass = ({ isActive }) =>
   `px-3 py-2 rounded-md text-sm font-medium ${
@@ -32,6 +33,9 @@ function App() {
             <NavLink to="/search" className={navLinkClass}>
               搜尋
             </NavLink>
+            <NavLink to="/reports" className={navLinkClass}>
+              錯誤回報
+            </NavLink>
           </div>
         </nav>
         <main className="max-w-3xl mx-auto px-4 py-6">
@@ -41,6 +45,7 @@ function App() {
             <Route path="/wrong" element={<WrongQuestions />} />
             <Route path="/favorites" element={<Favorites />} />
             <Route path="/search" element={<Search />} />
+            <Route path="/reports" element={<ErrorReports />} />
           </Routes>
         </main>
       </div>
