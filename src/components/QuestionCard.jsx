@@ -1,56 +1,51 @@
 import { useEffect, useState } from 'react'
 
-// Detect Symbol-font characters mapped into PUA by broken PDF extraction
-function hasPUA(text) {
-  for (let i = 0; i < (text || '').length; i++) {
-    const c = text.charCodeAt(i)
-    if (c >= 0xF000 && c <= 0xF8FF) return true
-  }
-  return false
-}
+// Symbol-font chars mapped into Unicode Private Use Area by broken PDF extraction
+// e.g.  (Symbol 'K'),  (Symbol '+'),  (Symbol '×')
+const PUA_RE = /[-]/
 
-const TABLE_REF_RE = /[下前附上][表列]|表[一二三四五六七八九十1-9]/
+// Content that benefits from monospace + no-wrap: formulas, unit notation, aligned columns
 const MONO_RE = /[ \t]{3,}|[×÷²³√＝≒μα]|mg\/m|ppm|Q\s*[=＝]|TWA|STEL|10[-−]\d/
 
-function needsPageImage(q) {
-  const text = (q.question || '') + (q.answer || '')
-  return hasPUA(text) || TABLE_REF_RE.test(text)
+// Reference to a table that exists in the original PDF but wasn't captured in text extraction
+const TABLE_REF_RE = /[下前附上][表列]|表[一二三四五六七八九十1-9]/
+
+function hasTableRef(text) {
+  return Boolean(text && TABLE_REF_RE.test(text))
 }
 
-// Renders question/answer text with monospace for formula content
-function ContentBlock({ text }) {
-  if (!text) return null
-  const mono = MONO_RE.test(text)
+function Banner({ variant, children }) {
+  const cls = variant === 'warn'
+    ? 'border-amber-200 bg-amber-50 text-amber-700'
+    : 'border-blue-100 bg-blue-50 text-blue-600'
   return (
-    <div className={mono ? 'overflow-x-auto' : ''}>
-      <p className={
-        mono
-          ? 'whitespace-pre font-mono text-sm leading-relaxed text-gray-900'
-          : 'whitespace-pre-wrap leading-relaxed text-gray-900'
-      }>
-        {text}
-      </p>
+    <div className={`flex items-start gap-2 rounded-md border px-3 py-2 text-xs ${cls}`}>
+      <span className="shrink-0 font-bold leading-relaxed">{variant === 'warn' ? '!' : 'i'}</span>
+      <span>{children}</span>
     </div>
   )
 }
 
-// Shows the original PDF page for tables / formulas
-function PageImage({ pageNum }) {
-  const [hidden, setHidden] = useState(false)
-  if (hidden || !pageNum) return null
-  const src = `${import.meta.env.BASE_URL}pdf-pages/page-${pageNum}.jpg`
+function ContentBlock({ text }) {
+  if (!text) return null
+  const garbled = PUA_RE.test(text)
+  const mono    = MONO_RE.test(text)
+
   return (
-    <div className="rounded-lg border border-indigo-100 bg-indigo-50/30 p-3 space-y-2">
-      <p className="text-xs text-indigo-500 font-medium">原始試題頁面（第 {pageNum} 頁）</p>
-      <div className="overflow-x-auto">
-        <img
-          src={src}
-          alt={`試題第 ${pageNum} 頁`}
-          className="max-w-none w-full rounded border border-gray-200 shadow-sm"
-          style={{ minWidth: 320 }}
-          onError={() => setHidden(true)}
-          loading="lazy"
-        />
+    <div className="space-y-2">
+      {garbled && (
+        <Banner variant="warn">
+          此題含有數學公式，因 PDF 字型編碼限制部分符號無法正確顯示，建議對照原始試題。
+        </Banner>
+      )}
+      <div className={mono ? 'overflow-x-auto' : ''}>
+        <p className={
+          mono
+            ? 'whitespace-pre font-mono text-sm leading-relaxed text-gray-900'
+            : 'whitespace-pre-wrap leading-relaxed text-gray-900'
+        }>
+          {text}
+        </p>
       </div>
     </div>
   )
@@ -79,7 +74,7 @@ export default function QuestionCard({
     )
   }
 
-  const showImage = needsPageImage(question)
+  const tableRef = hasTableRef(question.question) || hasTableRef(question.answer)
 
   return (
     <div className="rounded-lg border border-gray-200 bg-white p-5 shadow-sm space-y-4">
@@ -102,11 +97,15 @@ export default function QuestionCard({
         )}
       </div>
 
+      {/* table-reference notice */}
+      {tableRef && (
+        <Banner variant="info">
+          此題引用了表格，PDF 解析僅能保留純文字，建議搭配原始試題（Hsiao 的工安部屋家族）閱讀。
+        </Banner>
+      )}
+
       {/* question text */}
       <ContentBlock text={question.question} />
-
-      {/* PDF page screenshot — shown when tables or formulas are missing */}
-      {showImage && <PageImage pageNum={question.page} />}
 
       {/* self-answer */}
       <label className="block">
