@@ -12,6 +12,18 @@ import {
 
 const categories = [...new Set(questions.map((q) => q.category))]
 
+const questionCounts = (() => {
+  const c = { _total: questions.length }
+  for (const q of questions) {
+    c[q.category] = (c[q.category] ?? 0) + 1
+    const subKey = q.category + '||' + (q.subcategory ?? '')
+    c[subKey] = (c[subKey] ?? 0) + 1
+    const allSubKey = q.category + '||'
+    c[allSubKey] = (c[allSubKey] ?? 0) + 1
+  }
+  return c
+})()
+
 export default function Practice() {
   const [searchParams, setSearchParams] = useSearchParams()
   const idParam = searchParams.get('id')
@@ -98,6 +110,7 @@ export default function Practice() {
         selectedSubcategory={selectedSubcategory}
         onCategoryChange={handleCategoryChange}
         onSubcategoryChange={handleSubcategoryChange}
+        counts={questionCounts}
       />
 
       <p className="text-sm text-gray-500">
