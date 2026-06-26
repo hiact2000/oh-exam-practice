@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html {
+  /* Root font-size scales with viewport width, so every rem-based Tailwind
+     text utility grows/shrinks together as the window/screen size changes. */
+  font-size: clamp(16px, 0.85vw + 12px, 24px);
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, "Segoe UI", "Microsoft JhengHei", Roboto, sans-serif;
+}
