@@ -6309,5 +6309,1219 @@
       "glossary_fallback_no_source",
       "id_collision_resolved"
     ]
+  },
+  {
+    "id": "107-01",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "職業安全衛生設施規則",
+    "question": "表1為某醫院負責廢棄物處理與傳送業務（清理院內廢棄物與輸送病歷、藥物、檢體、病人等）\n之部門，針對院內廢棄物處理與傳送工作進行之風險評估，請依職業安全衛生設施規則相關規\n定回答下列問題 ：  \n一、項次1，對於處理受生物病原體污染之廢棄物時遭感染之情境，除所列現有防護措施外，\n依規定尚可採取何種可降低風險的控制措施？（即 A空格）（2分） \n二、對於雇主供給勞工使用之個人防護具，依規定除應保持清潔，並予必要之消毒外，還有哪\n些應辦理事項？（請列舉3項，每項2分，共6分）  \n三、項次2，降低風險所採取之控制措施為使用「適當」之容器盛裝儲存，請問依規定，何種\n容器足可認定為適當？（2分）  \n四、對於工作場所具有生物病原體危害之虞，依規定應採取感染預防措施，請問除感染預防作\n業標準、感染預防教育訓練、個人防護具之採購、管理及配戴演練、緊急應變外，感染預\n防措施尚有哪些？（請至少列舉4項，每項2分，共8分）  \n五、依規定對於作業中遭生物病原體污染之針具或尖銳物品扎傷之勞工，應指定專責單位或專\n人負責接受報告、調查、處理、追蹤及紀錄等事宜，其相關紀錄應留存多久？（2分） \n表1、風險評估表（節錄）： \n項\n次\n作業\n流程\n危害辨識 \n（危害可能\n造成後果之\n情境描述）\n現有防護措施 \n評估風險（數字\n越小風險越低）降低風險所採 \n取之控制措施 \n控制後預估風險\n嚴重\n度 \n可能\n性 \n風險\n等級\n嚴重\n度 \n可能\n性 \n風險\n等級\n1\n廢棄\n物處\n理作\n業 \n處理受生物\n病原體污染\n之廢棄物遭\n感染 \n1.適當之防護具 \n2.作業標準程序 \n3.教育訓練  \n4.緊急應變計畫 \n- \n- \n3 \nA \n- \n- \n2 \n2\n廢棄\n物處\n理作\n業 \n受生物病原\n體污染之物\n品洩漏 \n1.適當之防護具 \n2.作業標準程序 \n3.教育訓練  \n4.緊急應變計畫 \n- \n- \n3 使用「適當」之\n容器盛裝儲存 \n- \n- \n2 \n3 傳送\n作業\n傳送檢體時\n檢體潑灑 \n1.適當之防護具 \n2.適當之容器  \n3.採取防撞、防跌\n倒措施  \n4.緊急應變計畫 \n \n \n2 \n暫時無須採取風\n險降低設施，但\n須確保現有防護\n措施之有效性。\n \n \n1",
+    "answer": "一、依據「職業安全衛生施設規則」第297 條第1 項規定，雇主對於有害物、生物病原體或\n受其污染之物品，應妥為儲存，並加警告標示。 \n二、依據「職業安全衛生施設規則」第277 條規定，雇主供給勞工使用之個人防護具或防護\n器具，應依下列規定辦理：  \n(一)保持清潔，並予必要之消毒。  \n(二).經常檢查，保持其性能，不用時並妥予保存。  \n(三)防護具或防護器具應準備足夠使用之數量，個人使用之防護具應置備與作業勞工人數相\n同或以上之數量，並以個人專用為原則。 \n(四)對勞工有感染疾病之虞時，應置備個人專用防護器具，或作預防感染疾病之措施。 \n三、依據「職業安全衛生施設規則」第297 條第2 項規定，為避免發生污染物品洩漏或遭尖\n銳物品穿刺，生物病原體或受其污染物品，應使用防止洩漏或不易穿透材質之容器盛裝\n儲存，且其盛裝材料應有足夠強度。 \n\n之虞者，除感染預預防作業標準、感染預防教育訓練、個人防護具之採購、管理及配戴演\n練、緊急應變外，應採取下列感染預防措施： \n(一)危害暴露範圍之確認。  \n(二)相關機械、設備、器具等之管理及檢點。  \n(三)警告傳達及標示。  \n(四)健康管理。  \n(五)扎傷事故之防治。  \n(六)感染事故之報告、調查、評估、統計、追蹤、隱私權維護及紀錄。  \n(七)感染預防之績效檢討及修正。  \n(八)其他經中央主管機關指定者 \n五、依據「職業安全衛生施設規則」第297-2 條第1 項第1 款規定，對於作業中遭生物病原\n體污染之針具或尖銳物品扎傷之勞工，應指定專責單位或專人負責接受報告、調查、處理、\n追蹤及紀錄等事宜，其相關紀錄應留存3 年。",
+    "points": 24,
+    "points_raw": [
+      "2分",
+      "2分",
+      "6分",
+      "2分",
+      "2分",
+      "8分",
+      "2分"
+    ],
+    "source": "【107-01】",
+    "page": 8,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "104-01-04_090-02-01_054-01-01",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "職業安全衛生管理辦法",
+    "question": "(一) 略。 \n(二) \n1. 略依。 \n2. \n(1)上肢:簡易人因工程檢核表、Strain Index、AXGIH HAL-TLV、OCRA Checklist、\nKIM-MHO(2012)、OCRA Index、EAWS \n(2)下背部:簡易人因工程檢核表、KIM-LHC、KIM-PP、NIOH Lifting eq.、EAWS \n(3)全身:RULA,REBA、OWAS、EAWS \n \n依勞工安全衛生設施規則規定，那些有害工作場所，雇主應於顯明易見之處所標明，並禁止非\n從事作業有關之人員進入？（10 分）",
+    "answer": "非從事作業有關之人員進入左列工作場所： \n1.處置大量高熱物體或顯著濕熱之場所。 \n2.處置大量低溫物體或顯著寒冷之場所。 \n3.強烈微波、射頻波或雷射等非游離輻射之場所。 \n4.氧氣濃度未滿百分之十八之場所。 \n5.有害物超過容許濃度之場所。 \n6.處置特殊有害物之場所。 \n7.生物病原體顯著污染之場所。 \n前項禁止進入之規定，對於緊急時並使用有效之防護具之有關人員不適用之。",
+    "points": 10,
+    "points_raw": [
+      "10分"
+    ],
+    "source": "【104-01-04】【090-02-01】【054-01-01】",
+    "page": 18,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "ambiguous_zone_no_blank_line"
+    ]
+  },
+  {
+    "id": "098-02-04",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "職業安全衛生教育訓練規則",
+    "question": "(四)依職業安全衛生管理辦法之規定，雇主對局部排氣裝置、空氣清淨裝置及吹吸型換氣裝置每\n年應實施檢查一次之事項，除其他保持性能之必要事項外，請列舉3 項。(6 分)",
+    "answer": "(四)依據「職業安全衛生管理辦法」第40 條規定，雇主對局部排氣裝置、空氣清淨裝置及吹\n吸型換氣裝置應每年依下列規定定期實施檢查一次： \n1.氣罩、導管及排氣機之磨損、腐蝕、凹凸及其他損害之狀況及程度。 \n2.導管或排氣機之塵埃聚積狀況。 \n3.排氣機之注油潤滑狀況。 \n4.導管接觸部分之狀況。 \n5.連接電動機與排氣機之皮帶之鬆弛狀況。 \n6.吸氣及排氣之能力。 \n\n8.其他保持性能之必要事項。 \n \n依「職業安全衛生管理辦法」規定，職業安全衛生委員會： \n(一)應每幾個月至少開會一次？（2 分） \n(二)應辦理哪些事項（至少列出8 項）？（8 分） \n答：依據「職業安全衛生管理辦法」第12 條第1 項之規定。 \n(一)職業安全衛生委員會應每3 個月至少開會一次。 \n(二)職業安全衛生委員會應應辦理事項如下： \n1.對雇主擬訂之職業安全衛生政策提出建議。  \n2.協調、建議職業安全衛生自主管理計畫。  \n3.審議安全、衛生教育訓練實施計畫。 \n4.審議作業環境監測計畫、監測結果及採行措施。 \n5.審議健康管理、職業病預防及健康促進事項。  \n6.審議各項安全衛生提案。  \n7.審議事業單位自動檢查及安全衛生稽核事項。  \n8.審議機械、設備或原料、材料危害之預防措施。  \n9.審議職業災害調查報告。  \n10.考核現場安全衛生管理績效。  \n11.審議承攬業務安全衛生管理事項。  \n12.其他有關職業安全衛生管理事項。",
+    "points": 6,
+    "points_raw": [
+      "6分"
+    ],
+    "source": "【098-02-04】",
+    "page": 20,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "097-04-01",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "職業安全衛生教育訓練規則",
+    "question": "試回答下列問題：  \n(一)你是一家企業的職安全衛生人員，會同從事勞工健康醫護規劃「母性健康保護計畫」，試\n依「職業安全衛生法」、「女性勞工母性健康保護實施辦法」、「工作場所母性健康保護\n技術指引」回答下列問題 ： \n1.規劃的第1個步驟是工作環境及作業危害辨識與評估，請問依規定妊娠中和分娩後未滿1年\n之女性勞工，均不得從事的危險性或有害性工作有那4項？(4分) \n2.某位女性勞工懷孕，經通知主管後，通報你和醫師、護理師進行危害辨識與評估，評估後\n醫師判定該勞工之健康風險等級為第二級，請略述說明此風險等級的內涵為何？(2分) \n3.承上題，對健康風險等級為第二級之懷孕勞工，請就雇主在環境危害預防管理與健康管理\n等2個面向，分別提出2項應執行之措施。(4分)",
+    "answer": "1.依據「職業安全衛生法」第30 條第2 項規定，雇主不得使分娩後未滿1 年之女性勞工\n從事下列危險性或有害性工作： \n(1)礦坑工作。 \n(2)鉛及其化合物散布場所之工作。 \n(3)鑿岩機及其他有顯著振動之工作。 \n(4)一定重量以上之重物處理工作。 \n(5)其他經中央主管機關規定之危險性或有害性之工作。 \n2.依據「女性勞工母性健康保護實施辦法」第11 條第1 項規定，工作場所環境風險等級\n第二級的內涵為風險等級屬第二級管理者，雇主應使從事勞工健康服務醫師提供勞工個\n人面談指導，並採取危害預防措施。 \n3.依據「工作場所母性健康保護技術指引」三、規劃與實施當中(四)實施管理措施之規定，\n對健康風險等級為第二級之懷孕勞工，雇主在環境危害預防管理與健康管理等2個面向，\n分別應執行下列措施： \n(1)環境危害預防管理：定期檢點作業環境有害勞工健康之各種危害因素及勞工暴露情形\n等，採取必要之改善措施；另應視作業環境需求，提供適當之防護具予勞工使用。 \n(2)健康管理：對於妊娠中或分娩後未滿1 年及哺乳中之女性勞工，應使勞工健康服務之\n醫師提供勞工個人面談指導，並採取危害預防措施，如告知勞工有哪些危害因子會影\n響生殖或胎（嬰）兒生長發育等，使其有清楚的認知，並提醒勞工養成良好之衛生習\n慣，或正確使用防護具及相關可運用之資源等。",
+    "points": 10,
+    "points_raw": [
+      "4分",
+      "2分",
+      "4分"
+    ],
+    "source": "【097-04-01】",
+    "page": 27,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "noid-42",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "粉塵危害預防標準",
+    "question": "氨氣大量洩漏時之緊急處理措施為何？",
+    "answer": "(一)確定洩漏及濺出處所。 \n(二)關閉洩漏來源。 \n(三)將污染地區通風，並指出移動或通風機的位置所在。 \n(四)修復洩漏，並遵守安全守則避免人員及可能發生爆炸。 \n(五)儘快恢復冷凍機運轉。 \n(六)中和氨氣，所用方法視產品及溫度而有所不同，對極低溫度凍結下，常用二氧化碳中和，\n廠內應貯儲相當數量之二氧化碳。 \n(七)自污染地區移出食品，儲置於未遭污染地區。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 42,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "noid-46",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "勞工作業場所容許暴露標準",
+    "question": "如何實施粉塵測定及其原理？何謂可呼吸性粉塵及吸入性粉塵？",
+    "answer": "（一）粉塵之補集原理： \n1.過濾捕集：係目前最被廣泛採用的方法，具有經濟性及便捷性的優點。過濾捕集的採樣裝\n置包括： \n(1)濾紙：用以捕集粒狀污染物，濾紙對粒子的捕集機制主要包括：慣性衝擊沉降、濾紙對\n粒子之直接攔截、濾紙對粒子之擴散沉降、靜電吸引、重力沉降。目前常用的濾紙材質\n和特性簡述如下： \n甲.薄膜濾紙：薄膜濾紙可將粒子捕集於濾紙表面，故可用於樣品需以顯微鏡分析時採樣。\n其製造材料包括聚酯纖維、聚氯乙稀等。 \n乙.纖維濾紙：常見的纖維濾紙有玻璃紙纖維濾紙及石英纖維濾紙。玻璃紙纖維濾紙可用於\n捕集殺蟲劑等之粒狀污染物。石英纖維濾紙常用於高流量之環境採樣。 \n丙.核膜濾紙：常用於石綿採樣濾紙。 \n(2)濾紙固定器或採樣頭：用以承裝濾紙，並在保持氣密的情況下，使粒子能均勻地進入採\n樣口，並被捕集在濾紙上。 \n(3)採樣泵浦：提供動力以吸入大氣中的粒狀污染物。 \n(4)導管：用以連接採樣頭及採樣幫浦。 \n2.慣性力及重力捕集：採樣器包括： \n(1)衝擊採樣器：主要原理係利用氣膠本身的慣性力而加以捕集。 \n(2)旋風分離器：主要原理係利用側向進氣流，使得氣流進入採樣器產生的渦流由上而下旋\n\n(3)衝擊採樣瓶：主要原理有如衝擊採樣器，但主要不同是在於氣流進入採樣瓶後導入一含\n有液體的採樣瓶。 \n(4)析出器：係利用重力沉降以分離不同氣動粒徑的氣膠。 \n3.基本上，上述採樣器可分為兩種： \n(1)特定粒徑氣膠採樣器：如旋風分離器及析出器等。 \n(2)氣膠分粒裝置：如水平式析出器等。 \n（二）粉塵測定之實施方法：【略】 \n（三）可呼吸性粉塵及吸入性粉塵： \n1.可呼吸性粉塵（respirable dust）係指可透過離心式或水平析出式等分粒裝置所測得之粒\n徑者。粉塵之氣動粒徑在4μm 以下，此種可深入肺部之粉塵，稱為可呼吸性粉塵。 \n2.吸入性粉塵（inhalable dust）：吸入性粉塵係指空氣中之粒狀污染物能經由鼻或口呼吸而\n進入人體呼吸系統者。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 46,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "107-04",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "勞工作業場所容許暴露標準",
+    "question": "石材加工廠，主要進行花崗石板材的裁切、雕刻及打磨拋光，該工廠最近一次作業環境監測\n結果如表2，現行勞工作業場所容許暴露標準所定空氣中粉塵容許濃度摘錄部分如表3。\n請回答下列問題：    \n一、依現行勞工作業場所容許暴露標準所定空氣中粉塵容許濃度規定，結晶型游離二氧\n化矽除矽藻土外，包括哪3 種礦石？（6 分）  \n二、承第一小題，監測編號1 至3 的樣本，分別屬於哪一種粉塵？（3 分）  \n三、承第一小題，監測編號1 至3 的樣本，其空氣中可呼吸性粉塵容許濃度分別為多少？（6\n分）  \n四、勞動部已於114 年4 月11 日修正空氣中粉塵容許濃度，並自116 年1 月1 日施行，其\n中規定結晶型游離二氧化矽的可呼吸性粉塵容許濃度為0.1 mg/m3，請問監測編號 1 \n的樣本，是否符合該修正規定，並說明原因？（5 分） \n表2 該工廠最近一次作業環境監測結果 \n監測編號\n監測處所\n空氣中可呼吸性粉塵含結晶型\n游離二氧化矽百分比(%) \n空氣中可呼吸性粉塵\n濃度（mg/m3） \n1 \n裁切 \n40 \n0.15 \n2 \n雕刻 \n15 \n0.11 \n3 \n打磨拋光\n5 \n0.09 \n表3 現行勞工作業場所容許暴露標準所定空氣中粉塵容許濃度（摘錄） \n粉塵種類 \n空氣中粉塵容許濃度（mg/m3） \n可呼吸性粉塵 \n總粉塵 \n第一種粉塵 \n𝟏𝟎\n%𝐒𝐢𝐎𝟐+ 𝟐 \n𝟑𝟎\n%𝐒𝐢𝐎𝟐+ 𝟐 \n第二種粉塵 \n1 \n4 \n第四種粉塵 \n5 \n10",
+    "answer": "一、依據「勞工作業場所容許暴露標準」附表二 空氣中粉塵容許濃度之說明四所載，結晶\n型游離二氧化矽係指石英、方矽石、鱗矽石3 種礦石。 \n二、監測樣本之粉塵種類判定如下列：  \n(一)監測編號1：含量40%大於10%，屬於第一種粉塵。  \n(二)監測編號2：含量15%大於10%，屬於第一種粉塵。  \n(三)監測編號3：含量5%小於10%且在1%以上，屬於第二種粉塵。 \n三、 \n(一)監測編號1(40%)：  \n第一種粉塵空氣中可呼吸性粉塵容許濃度：  \nଵ଴ ୫୥/୫య\n%ୗ୧୓మାଶ=\nଵ଴ ୫୥/୫య\nସ଴ାଶ\n=\nଵ଴ ୫୥/୫య\nସଶ\n=0.24 mg/m3 \n(二)監測編號1(15%)： \n第一種粉塵空氣中可呼吸性粉塵容許濃度：  \nଵ଴ ୫୥/୫య\n%ୗ୧୓మାଶ=\nଵ଴ ୫୥/୫య\nଵହାଶ\n=\nଵ଴ ୫୥/୫య\nଵ଻\n=0.59 mg/m3  \n(三)監測編號3(5%)：  \n第二種粉塵空氣中可呼吸性粉塵容許濃度固定為1.00mg/m3 \n四、不符合。 \n因監測編號1 切裁處所的實測可呼吸粉塵濃度為0.15 mg/m3 大於可呼吸性粉塵容許濃\n度0.1mg/m3，故此作業場所之實測值已超過116 年新修正之容許濃度值。",
+    "points": 20,
+    "points_raw": [
+      "6分",
+      "3分",
+      "6分",
+      "5分"
+    ],
+    "source": "【107-04】",
+    "page": 48,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "high_unusual_codepoint_density"
+    ]
+  },
+  {
+    "id": "noid-80",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "勞工作業環境監測實施辦法",
+    "question": "(一)「警示語」係指標示上用來表明危害的相對嚴重程度的標示語，GHS 使用之警示語為「危\n險」與「警告」，「危險」使用於較為嚴重之危害級別(即主要用於第1 和第2 級)，而\n「警告」使用於較輕之危害級別；因「危害警告訊息」得知「苯」為「高度易燃液體和\n蒸氣」，屬危害級別之「第二級」，故警示語為「危險」。 \n(二)上述10 項危害警告訊息，依照「危害物質之分類、標示要項」僅分別屬於3 種危害圖示，\n故祇有三個圖示。 \n(三)因「危害警告訊息」得知「苯」為「對水生生物有害」，惟此危害警告訊息屬危害級別\n之「急性Ⅱ」，故不需標示對應之圖示。 \n(四)本標示尚欠缺「名稱」、「危害防範措施」、「製造者、輸入者或供應者之名稱、地址及電\n話」，加註「更詳細的資料，請參考安全資料表」。 \n(五) \n1.蒐集混合物相關資訊，確立混合物之危害分類。 \n2.確認對混合物危害有貢獻之危害成分。 \n3.依照法規找出對應之標示要項，包括危害圖示、警示語及危害警告訊息。 \n4.依照混合物特性選擇危害防範措施。 \n事業單位使用危險物、有害物時，依法令規定應推行危害通識制度，其意義為何？推動危害通\n識應有那些措施？",
+    "answer": "（一）推行危害通識制度之意義： \n在工作場所中存在的危害物質，勞工有權利知道其危害性，因此在危害物質與勞工之間\n建立一套制度，使物質之危害資訊有被勞工認識的機會，而且可以提高其安全操作性。 \n（二）推動危害通識應有措施： \n1.標示。 \n2.雇主應於作業場所明顯易取得處放置安全資料表（SDS）。 \n3.擬定危害通識計劃。 \n4.列出危害物質清單。 \n5.對員工進行勞工安全衛生教育訓練。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 80,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "ambiguous_zone_no_blank_line",
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "noid-86",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "勞工作業環境監測實施辦法",
+    "question": "(一) CMR 物質之 C、M、R 的 3 個英文縮寫，分別指下列物質： \n【C】Carcinogenic substances 致癌物質。 \n【M】Mutagenic substances 致突變性物質。 \n【R】Reproduction substances 生殖毒性物質。。 \n(二)依照「優先管理化學品之指定及運作管理辦法」第2 條規定，CMR 危害性化學品包含下\n列類別：化學物質依國家標準CNS15030 危害分類，具致癌物質第一級、生殖細胞致\n突變性物質第一級或生殖毒性物質第一級。 \n(三)否。 \n理由：因實施職場母性健康保護，對於保護期間之勞工執行化學品的健康風險分析時，除了\n優先管理化學品所列之CMR 物質外，尚需針對其他對哺乳功能有不良影響之化學品，\n以確保哺乳期間之母體及嬰兒健康。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 86,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "ambiguous_zone_no_blank_line",
+      "no_source_code_for_boundary",
+      "ambiguous_zone_no_blank_line",
+      "empty_answer"
+    ]
+  },
+  {
+    "id": "noid-86-b",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "勞工作業環境監測實施辦法",
+    "question": "(一)依據「危害性化學品評估及分級管理辦法」第2 條第2 項規定，分級管理係指依化學品\n健康危害及暴露評估結果評定風險等級。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 86,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "ambiguous_zone_no_blank_line",
+      "no_source_code_for_boundary",
+      "ambiguous_zone_no_blank_line",
+      "empty_answer",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-98",
+    "category": "職業安全衛生相關法規",
+    "subcategory": "勞工作業環境監測實施辦法",
+    "question": "",
+    "answer": "(一)依據「精密作業勞工視機能保護設施標準」第3~10 條規定：  \n1.所稱精密作業，係指雇主勞工從事本標準所列之凝視作業，且每日凝視作業時間合計在\n2 小時以上者。 \n2.米燭光(Lux)為照度之單位，其定義為單位面積所接受光通量，簡稱E，單位Lux(米燭光)。\n1Lux 為1m2 面積上的光通量為1 流明(Lm)。 \n3.雇主應採取之視機能保護設施或措施如下列： \n(1)雇主使勞工從事精密作業時，應其作業實際需要施予適當之照明。作業台面不得產生\n反射耀眼光線，其採色並應與處理物件有較佳對比之顏色。 \n(2)雇主使勞工從事精密作業時，其工作台面照明與其半徑1 公尺以內接鄰地區照明之比\n率不得低於一比五分之一，與鄰近地區照明之比率不得低於一比二十分之一。 \n(3)雇主採用輔助局部照明時，應使勞工眼精與光源之連線和眼睛與注視工作點之連線所\n成之角度，在30 度以上。如在30 度以內應設置適當之遮光裝置，不得產生眩目之大\n面積光源。 \n(4)雇主使勞工從事精密作業時，應縮短工作時間，於連續作業2 小時，給予作業勞工至\n少15 分鐘之休息。 \n(5)雇主使勞工從事精密作業時，應注意勞工作業姿態，使其眼球與工作點之距離保持在\n明視距離約30 公分。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 98,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary",
+      "empty_question"
+    ]
+  },
+  {
+    "id": "107-03-01_107-03-02",
+    "category": "職業安全衛生計畫及管理",
+    "subcategory": "職業安全衛生管理系統（含承攬管理、採購管理及變更管理）",
+    "question": "職業安全衛生管理系統（含承攬管理、採購管理及變更管理） \n一、依職業安全衛生管理辦法之規定，應依國家標準CNS 45001同等以上規定，建置適合該\n事業單位之職業安全衛生管理系統者，除機械、設備、器具等項目外，請再列出2項之採\n購、租賃，其契約內容應有符合法令及實際需要之職業安全衛生具體規範，並於驗收、使\n用前確認其符合規定。（4分）     \n二、依CNS 45001，有關緊急準備與應變，事業單位應依所鑑別的潛在緊急情況，建立、實\n施並維持準備及應變所需的流程，除「建立緊急情況應變計畫，包括急救」外，請再列出\n3項。（6分）",
+    "answer": "一、依據「職業安全衛生管理辦法」第12-4條第1項第2款規定，，應建置 CNS 45001 同等\n以上管理系統之事業單位，針對採購、租賃，除機械、設備、器具外，其契約應包含規\n範並於驗收前確認的項目包括：物料、原料及個人防護具。  \n二、依據「CNS 45001（ISO 45001）」標準，事業單位除建立緊急情況應變計畫外，還應\n包含以下3項準備及應變流程：提供應變計畫訓練、定期測試及演練應變計畫、評估績效\n並修改應變計畫。",
+    "points": 10,
+    "points_raw": [
+      "4分",
+      "6分"
+    ],
+    "source": "【107-03-01】【107-03-02】",
+    "page": 103,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "noid-108",
+    "category": "職業安全衛生計畫及管理",
+    "subcategory": "安全衛生管理規章及職業安全衛生管理計畫之製定",
+    "question": "安全衛生工作守則之製定 \n(一)請列舉4項安全衛生工作守則內容之事項。(8分)  \n(二)事業單位訂定之安全衛生工作守則其適用區域跨二以上勞動檢查機構轄區時，應如何處理報\n備事宜？(2 分)",
+    "answer": "(一)依據「職業安全衛生法施行細則」第41 條規定，本法第34 條第1 項所定安全衛生工作\n守則之內容，依下列事項定之： \n1.事業之安全衛生管理及各級之權責。 \n2.機械、設備或器具之維護及檢查。 \n3.工作安全及衛生標準。 \n4.教育及訓練。 \n5.健康指導及管理措施。 \n6.急救及搶救。 \n7.防護設備之準備、維持及使用。 \n8.事故通報及報告。 \n9.其他有關安全衛生事項。 \n(二)依據「職業安全衛生法施行細則」第42 條第2 項規定，事業單位訂定之安全衛生工作\n守則，其適用區域跨二以上勞動檢查機構轄區時，應報請中央主管機關指定之勞動檢查\n機構備查。",
+    "points": 10,
+    "points_raw": [
+      "8分",
+      "2分"
+    ],
+    "source": "",
+    "page": 108,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "107-03-03",
+    "category": "專業課程",
+    "subcategory": "職業衛生與職業病預防概論",
+    "question": "職業衛生與職業病預防概論 \n三、下列為某醬菜工廠製作醃筍的主要製作流程：  \n(一)清洗/切片：作業員將生筍除殼清洗後，使用菜刀將生筍切片成適當大小。  \n(二)搓鹽/醃製/日曬：放入醃製槽（長5 m x寬5 m x深3 m）加鹽並以起重機吊掛石塊重壓，\n經常將補充滷水抽入醃製槽，或抽出至另一槽，之後，作業員進入槽內將醃筍取出日曬，\n日曬後換槽再鹽醃，來回多次換槽、鹽醃、取出、日曬。 \n(三)烹煮：以液化石油氣槽供應燃料之鍋爐供熱高溫烹煮。  \n(四)滅菌/包裝/入庫：經作業員分裝成小袋，由輸送帶送至熱水浴高溫殺菌，再由作業員以封\n口機封密袋口，降溫後裝箱，並經作業員移入手推車後入庫。  \n請就「(二)搓鹽/醃製/日曬」製程寫出5 項危害及其可能的後果，且至少2 項與職業衛生健康\n相關。（每項2 分，共10 分）",
+    "answer": "三、醃筍製程2. 搓鹽/醃製/日曬之危害與後果：進入深度 3m 醃製槽、起重機吊掛、手工作\n業等流程，辨識5項危害及其後果，如下列： \n1.局限空間危害【職業衛生】  \n  Ǹ危害：醃製槽屬局限空間，可能缺氧或累積發酵氣體（如硫化氫）。  \n  Ǹ後果：頭暈、昏迷、窒息，嚴重可致死亡。  \n2.物理性危害【職業衛生】  \nǸ危害：長時間在陽光下作業（熱暴露）。  \nǸ後果：中暑、熱衰竭、脫水。  \n\nǸ危害：長期接觸高濃度鹽水、滷水或醃漬化學添加物。  \nǸ後果：接觸性皮膚炎、皮膚潰爛或化學灼傷。  \n4.墜落危害【職業安全】  \nǸ危害：醃製槽深3m在槽邊作業，且鹽水、滷水恐造成地面濕滑。  \nǸ後果：墜落骨折、頭部外傷或溺斃於滷水中。  \n5.被撞/吊掛危害【職業安全】  \nǸ危害：起重機吊掛石塊可能掉落或擺盪。  \nǸ後果：石塊掉落導致壓傷、被撞或肢體殘缺。",
+    "points": 12,
+    "points_raw": [
+      "2分",
+      "10分"
+    ],
+    "source": "【107-03-03】",
+    "page": 111,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "noid-148",
+    "category": "專業課程",
+    "subcategory": "人因工程學及骨骼肌肉傷害預防",
+    "question": "人工抬舉作業應考慮之因素有那些？",
+    "answer": "（一）檢查物料的標面是否有裂開、尖銳的突出物、尖銳的邊緣、毛刺、粗糙或易滑。 \n（二）抓握確實。 \n（三）放下物料時，手指應避開或挾或剪的接觸點。 \n（四）抬舉長的物料如木料、管子時，手應離開物件兩端，以免被夾住。 \n（五）在抬舉有油漬或污、滑、髒的物料之前，應先用抹布擦拭這些不潔物。 \n（六）手上沾油膩的東西，勿搬運物料。 \n \n人因工程中那些作業造成人體骨骼肌肉傷害，試舉出並描述之。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 148,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "noid-149",
+    "category": "專業課程",
+    "subcategory": "人因工程學及骨骼肌肉傷害預防",
+    "question": "Hsiao 的工安部屋 \n149 of 249  \n115/03/27",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 149,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary",
+      "ambiguous_zone_no_blank_line",
+      "empty_answer"
+    ]
+  },
+  {
+    "id": "107-02",
+    "category": "專業課程",
+    "subcategory": "急 救",
+    "question": "事業單位依勞工健康保護規則應設置急救人員，協助在有緊急救護需求時的應變，請回答下列\n問題：    \n一、請依序寫出燒燙傷處理的五個步驟，並簡要說明執行方式。（各2 分，共10 分）  \n二、請依序寫出成人心肺復甦術執行的五個步驟（不含自動心臟電擊去顫器；AED），並簡要說\n明執行方式。（各2 分，共10 分）",
+    "answer": "一、燒燙傷處理五步驟（沖、脫、泡、蓋、送）之執行方式說明如下列：  \n(一) 【沖】：以流動的自來水緩緩沖洗傷口15 至30 分鐘，以減輕疼痛並降低皮膚溫度。  \n(二) 【脫】：在冷水中小心地脫下或剪開衣物，若衣物已黏在皮膚上，則不要強行撕下。  \n(三) 【泡】：將受傷部位浸泡在冷水中15 至30 分鐘，以減輕疼痛與腫脹。  \n(四) 【蓋】：用乾淨或無菌的紗布覆蓋受傷部位，不要塗抹任何藥膏或偏方，以免引起傷口\n感染或影響醫師診斷。  \n(五) 【送】：儘速將傷者送往醫院進行專業治療。  \n \n二、參照衛福部頒佈之「民眾版心肺復甦術參考指引摘要表」所載，成人心肺復甦術（CPR）\n五步驟(在不含AED 的情況下) 之執行方式說明如下列：   \n(一)【叫】確認環境安全與病患意識/呼吸：確保環境無危險，拍打患者雙肩大喊，確認是否\n清醒。檢查有無呼吸（約5~10 秒），若無意識且無正常呼吸，進入下一個步驟。 \n(二)【叫】呼叫求援（打119）：指定人員撥打119。若身邊無人，則自行開擴音撥打119\n並開始急救。 \n(三)【C】胸部按壓(Compressions)：位置在胸骨下半部（兩乳頭連線中央）。雙手交疊，\n掌根按壓，深度約5~6 公分，速率每分鐘100~120 次，按壓後讓胸部完全回彈。 \n(四)【A】開啟呼吸道(Airway)：將患者頭部稍微向後傾（壓額抬下巴），使呼吸道暢通，\n清除明顯異物。 \n(五)【B】人工呼吸(Breathing)：採取 30：2 原則（30 次按壓後2 次吹氣）。捏住患者鼻\n子，吹氣約1 秒鐘，確認胸部起伏。若無防護面罩，可僅執行「持續胸部按壓」。",
+    "points": 24,
+    "points_raw": [
+      "2分",
+      "10分",
+      "2分",
+      "10分"
+    ],
+    "source": "【107-02】",
+    "page": 161,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "097-04-02",
+    "category": "專業課程",
+    "subcategory": "急 救",
+    "question": "(二)簡短列舉發現勞工身體局部受化學品噴濺而發生局部性燒灼傷害時，事業單位依勞工健康保\n護規則設置之急救人員，應實施之緊急處置步驟。(10 分)",
+    "answer": "(二)發現勞工身體局部受化學品噴濺而發生局部性燒灼傷害時，應實施之緊急處置步驟為\n【脫】、【沖】、【蓋】、【送】，特別注意化學品灼傷急救處理不能【泡】，因為這\n樣會使化學物質擴散，而導致傷勢惡化。 \n【脫】：立即除去受汙染的衣物，減少皮膚受傷面積，及接觸時間。 \n【沖】：以流動的水大量地單一方向沖洗傷處，讓殘餘酸鹼流到地上，至少30 分鐘，但\n若面積太大，體溫降低太快，還是要儘早送醫。 \n※不能沖水的例外情況：鉀、鈉、鋰融液則不能沖水，否則會產生氫氧化鉀、\n氫氧化鈉、氫氧化鋰及大量熱度，造成雙重傷害，生石灰也不要沖水，要用刷\n的，否則也會産生髙熱。如果當下實在無法判斷化學品種類，至少要做到：去\n除受汙染的衣物(脫)，並立即打119 送醫。 \n※沖水不正確造成二度傷害：少量沖水會或造成化學品沾滿衣物，反而增加化\n學品接觸皮膚面積，得不償失。 \n【蓋】：送醫時用乾淨衣物或浴巾覆蓋在身上，避免失溫。 \n【送】：儘快就醫，報案時告知消防人員為化學灼傷，並於送醫後，告知醫師化學品種\n類，或將化學品及殘瓶提供醫師參考。 \n\nHsiao 的工安部屋 \n162 of 249  \n115/03/27",
+    "points": 10,
+    "points_raw": [
+      "10分"
+    ],
+    "source": "【097-04-02】",
+    "page": 161,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "noid-171",
+    "category": "專業課程",
+    "subcategory": "物理性因子環境監測(含監測儀器)",
+    "question": "採樣要能具有代表性，且可作為評估依據之樣本時，採樣規劃應特別注意事項或考慮事項為何？",
+    "answer": "所謂採樣規畫，簡單的說就是依採樣目的而設計取得代表性樣本的方案，其要考慮的主要項目\n包括： \n（1）採樣對象勞工（Who）。 \n（2）採樣位置（Where）。 \n（3）每個工作天內的採樣樣品數目（How many）。 \n（4）每個樣品的採樣時間（How long）。 \n（5）一個工作天內的採樣時段（when）。 \n（6）採樣頻率（how often）。 \n採樣規劃我國目前職業安全衛生法有關規章之規定，依測定目的概可分為四種： \n（1）為掌握環境中有害物質實態之區域採樣測定。 \n（2）為瞭解勞工暴露量之勞工個人採樣測定。 \n（3）為判定局部排氣性能之氣罩外側濃度測定。 \n（4）儲槽內部作業前之測定（氧氣含量、可燃性氣體及有害物質濃度）。 \n決定採樣策略的考慮很多，沒有一種採樣策略可以滿足所有的採樣目的，最好的採樣策略就是\n能夠滿足你自已所要的採樣要求，方能提供最具代表性樣品者。有時候單一種採樣規畫無法滿\n足測定的目的，而需要同時採用二種以上的採樣策略來達到採樣的目的。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 171,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "noid-173",
+    "category": "專業課程",
+    "subcategory": "化學性因子環境監測(含監測儀器)",
+    "question": "化學性因子環境監測(含監測儀器)",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 173,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary",
+      "ambiguous_zone_no_blank_line",
+      "empty_answer"
+    ]
+  },
+  {
+    "id": "noid-175",
+    "category": "專業課程",
+    "subcategory": "化學性因子環境監測(含監測儀器)",
+    "question": "",
+    "answer": "(一)勞工作業場所 8 小時量平均濃度計算如下： \nTWA = C1 × t1 + C2 × t2 + ⋯+ C୬× t୬\nt1 + t2 + ⋯+ tn\n= (300 × 4) + (450 × 2) + (0 × 2)\n(4 + 2 + 2)\n \nTWA = 1200 + 900 + 0\n8\n= 2100\n8\n= 262.50(ppm) \n(二)勞工作業場所8 小時量平均濃度計算如下： \nTWA = C1 × t1 + C2 × t2 + ⋯+ C୬× t୬\nt1 + t2 + ⋯+ tn\n= (350 × 2) + (470 × 2) + (5000 × 2) + (320 × 2)\n(2 + 2 + 2 + 2)\n \nTWA = 700 + 940 + 1000 + 640\n8\n= 3280\n8\n= 410.00(ppm) \n(三)異丙醇時量平均濃度(TWA10)計算如下： \nTWAଵ଴= C1 × t1 + C2 × t2 + ⋯+ C୬× t୬\nt1 + t2 + ⋯+ tn\n= (350 × 4) + (450 × 2) + (460 × 2) + (320 × 2)\n(4 + 2 + 2 + 2)\n \nTWAଵ଴= 1400 + 900 + 920 + 640\n10\n= 3860\n10\n= 386.00(ppm) \n該勞工相當於8 小時時量平均濃度：TWA8＝TWA10 × 10 / 8 \nTWA8=386.00 × 10 / 8＝482.50 ppm \n暴露劑量Dose 計算如下： \nDose =\nTWA଼\nPEL −TWA = 482.50\n400\n= 1.21 \n經計算後得知該勞工之暴露劑量Dose 1.21＞1，勞工異丙醇之暴露超過容許濃度標準，\n故不符合法令規定。 \n(四)結晶型游離二氧化矽之暴露濃度X10(mg/m3)計算如下： \nX(mg/mଷ) = 粉塵重量W(mg)\n採樣體積V(mଷ)\n= 222(mg)\n1.04(mଷ) = 2.14(mg/mଷ) \n相當於8 小時時量平均濃度：Xഥ=X8＝X10 × 10 / 8 = 2.14(mg/m3) ×10 / 8=2.68(mg/m3) \n整體採樣樣本中結晶型游離二氧化矽所佔%約為：(30%+25%+28%+23%)÷4＝26.50% \n空氣中第一種粉塵(可呼吸性粉塵)8 小時日時量容許濃度PEL=10 mg/m3 / (%SiO2+2) \nPEL=10 mg/m3 / (26.50%SiO2+2)= 10 mg/m3 / (28.50(%)SiO2)=0.35 (mg/m3) \n嚴重度Y= 𝑋̅ / 𝑃𝐸𝐿 = 2.68(mg/m3) / 0.35 (mg/m3)=7.66 \n總變異係數CVT＝13% 、樣本數n＝4 \n\n√n\n= 7.66 −1.645 × 13%\n√4\n= 7.66 −0.21385\n2\n= 7.66 −0.11 = 7.55 \n因勞工結晶型游離二氧化矽之暴露LCL95%=7.55>1，故違反作業場所容許暴露標準。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 175,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "ambiguous_zone_no_blank_line",
+      "no_source_code_for_boundary",
+      "empty_question",
+      "high_unusual_codepoint_density"
+    ]
+  },
+  {
+    "id": "noid-207",
+    "category": "專業課程",
+    "subcategory": "溫濕環境",
+    "question": "請敘述噪音之控制方法有那些？",
+    "answer": "1.機械設備之更換。 \n2.物料運輸過程噪音之改善。 \n3.噪音振動源之衰減－－阻尼（Damping） \n4.設置消音器。 \n5.設置防音罩、防音蓋。 \n6.改善製造型態（利用替代製程來降低噪音）。 \n7.利用緩衝材料。 \n8.減少各種氣流產生噪音。 \n9.改善物料之搬運方法。 \n10.機械定時保養。 \n（二）噪音傳傳播路徑之控制 \n1.吸音控制（Absorption） \n2.遮音控制，如設置屏障、建築物。 \n3.利用距離衰減。 \n4.將音源予以密閉。 \n5.設置隔音裝置。 \n6. 使用雙重玻璃及防音門。 \n7.減少結構體之傳導。 \n（三）暴露者之保護。 \n1.實施聽力保護計畫。 \n2.戴用聽力防護具（耳塞、耳罩）。 \n3.利用工程方法有效改善噪音作業環境。 \n4.變更作業時間。 \n5.教育訓練。 \n6.隨時檢查。 \n7.注意機械之操作及維護保養。 \n（四）其他： \n1.使用吸音材料。 \n2.改善壁體。 \n3.處理窗戶、出入口、開口部等。 \n4.增加綠帶，如花草樹林。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 207,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "107-05",
+    "category": "專業課程",
+    "subcategory": "通風與換氣(含計算題)",
+    "question": "有一外裝式無凸緣氣罩其開口面積為2平方公尺，距離該氣罩開口中心1公尺處作業點之捕捉風\n速為0.5 m/s。請回答下列問題：（請計算至小數點後三位，再四捨五入至小數點後二位）  \n一、該氣罩的排氣量為多少m3/s？（請列出計算過程）（10分）  \n二、承第一小題，若拉長作業點與該氣罩的距離至2公尺，在相同的排氣量下，請問在該作業\n點的捕捉風速為多少m/s？（請列出計算過程）（10分）",
+    "answer": "一、外裝式無凸緣氣罩的排氣量計算公式為Q(m3/s)＝Vc(10X2+A)，式中 \nQ 為排氣量(m3/s)、Vc 為作業點風速(m/s)、X 為作業點與氣罩開口中心距離(m)、A 為氣\n罩開口面積(m2) \nQ=Vc(10X2+A)＝0.5(10×12+2)=0.5(10×1+2)=0.5(10+2)=0.5×12 = 6(m3/s) \n經計算後得知該氣罩的排氣量為6 m3/s。 \n \n二、外裝式無凸緣氣罩作業點風速的計算公式為Vc(m/s)＝排氣量Q(m3/s) / 10X2+A，式中 \nVc 為作業點風速(m/s)、Q 為氣罩的排氣量(m3/s)、X 為作業點與氣罩開口中心距離(m)、\nA 為氣罩開口面積(m2)  \nVc(m/s)＝Q(m3/s) / 10X2+A = 6 / (10×22+2) = 6 / (10×4+2) = 6 / 40+2 = 6 / 42=0.14(m/s) \n經計算後得知該作業點的捕捉風速為0.14 m/s。",
+    "points": 20,
+    "points_raw": [
+      "10分",
+      "10分"
+    ],
+    "source": "【107-05】",
+    "page": 225,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "high_unusual_codepoint_density"
+    ]
+  },
+  {
+    "id": "noid-235",
+    "category": "專業課程",
+    "subcategory": "通風與換氣(含計算題)",
+    "question": "某有機溶劑作業場所，每小時使用2.4kg 的二甲苯，1.2kg 的丙酮，該作業場所使用整體換氣\n裝置須多少換氣量才符合法令規定？",
+    "answer": "二甲苯、丙酮皆為第二種有機溶劑，故所需換氣量計算如下列： \nQ（二甲苯）＝0.04×2.4×1,000＝96m³/min   Q（丙酮）＝0.04×1.2×1,000＝48m³/min \n因二甲苯、丙酮皆為第二種有機溶劑，其對人體的危害具相加效應，故所需換氣量： \nQ＝Q（二甲苯）＋Q（丙酮）＝96m³/min＋48m³/min＝144 m³/min",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 235,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary"
+    ]
+  },
+  {
+    "id": "noid-235-b",
+    "category": "專業課程",
+    "subcategory": "局部排氣控制與設計",
+    "question": "請說明動壓、靜壓、全壓、氣罩、壓力損失之意義。",
+    "answer": "時產生，且作用方向為流動之方向。 \n（2）靜壓：為空氣本身所具有之壓力，使得空氣流動及克服空氣流動時管壁等所產生之阻力暨\n流速流向改變時之阻力。 \n（3）氣罩：限制或減少有害物從發生源擴散。並導引空氣以最有效之方法捕捉有害物進入，及\n經局部排氣系統除之結構。 \n（4）壓力損失：空氣具有黏度，流動時產生能量損失。 \n（5）全壓＝動壓＋靜壓 \n \n參考資料： \n假設室內有害物濃度成均勻分佈，根據均勻混合模式（well-mixing model）室內有害物的濃度變化為  \n \n其中 V 為室內體積，C 為有害物濃度，t 為時間， dC/dt 為有害物濃度變化率，Q 為換氣量 （或通風量），C0 \n為大氣中既有的有害物濃度（如二氧化碳之 C0 = 300～400 ppm），G 為室內有害物發生率。於是，在一定換氣\n量（或通風量）Q 下，有害物平衡濃度應為  \n \n由上式可知，欲將室內有害物濃度控制在一定的濃度 C 之下，整體換氣裝置所提供的必要換氣量必須為  \n \n \n \n\n根據下圖所示導管內風扇上下游不同位置測得之空氣壓力(不考慮摩擦損失)，請依題意作答各\n小題：(提示：𝑉𝑎 = 4.03√𝑃𝑣；𝑃𝑡 = 𝑃𝑆 + 𝑃𝑣) \n(一)已知在①位置（圓管直徑為30公分）測得之動壓(Pv1)與靜壓(Ps1)均為4 mmH2O： \n1.在①位置的全壓(Pt1)是多少mmH2O？(3分) \n2.風速是每秒多少公尺(m/sec)？(3分) \n3.風量(Q1)是每分鐘多少立方公尺(m3/min)？(3分) \n(二)已知在②位置(圓管直徑為20公分)： \n1.動壓(Pv2)是多少mmH2O？(3分) \n2.風速是每秒多少公尺(m/sec)？(3分) \n3.風量(Q2)是每分鐘多少立方公尺(m3/min)？(3分) \n(三)那一側（①或②位置）是屬於排氣側？(2分)",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 235,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-239",
+    "category": "專業課程",
+    "subcategory": "局部排氣控制與設計",
+    "question": "（1）何謂氣罩之進口係數（Ce）；（2）氣罩之進入損失（he）；（3）氣罩靜壓（Ps,h）與動壓\n（Pv）之關係；（4）氣罩之進入損失係數（Fh）與進口係數間之關係。",
+    "answer": "（1）量度空氣進入氣罩後，氣罩靜壓（Ps,h）可轉換成動壓（Pv）的效率 \nCe＝√Pv/ Ps¸h＝√動壓 /氣罩靜壓    理想之氣罩，其Ce ＝1.0 \n（2）空氣在流入真實之氣罩時，因有vena contracta，因而會有能量的損失，此即所謂的氣罩\n進入損，以he 表之。 \n氣罩之進入損失（he）＝進入損失係數（Fh）×動壓（Pv） \n（3）| Ps¸h|＝Pv＋he 或 Ps¸h ＝－（Pv＋he） \n因he ＝ Fh × Pv  \n所以Ps¸h＝（Pv＋he）＝（Pv＋Fh*Pv）＝－（1+Fh）Pv \n（4）Ce²＝Pv /|Ps¸h＝Pv＝ /Pv＋Ph ＝Pv ＝Pv+Fh*Pv＝Pv /Pv（1+Fh） \n亦即  Fh＝1-C²e / C²e",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 239,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "no_source_code_for_boundary",
+      "high_unusual_codepoint_density"
+    ]
+  },
+  {
+    "id": "107-03-01",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "(一)可呼吸性粉塵。 \n(二)總粉塵。 \n(三)結晶型游離二氧化矽係。 \n(四)石綿粉塵",
+    "answer": "(一)可呼吸性粉塵係指會進入無纖毛呼吸道之粉塵。 \n(二)總粉塵係指在某一特定體積空氣中，懸浮在空氣中之全部粉塵。 \n(三)結晶型游離二氧化矽係指石英、方矽石及鱗矽石。 \n(四)石綿粉塵係指纖維長度在5 微米以上，直徑小於3 微米，且長寬比在3 以上之粉塵。",
+    "points": null,
+    "points_raw": [],
+    "source": "【107-03-01】",
+    "page": 244,
+    "needs_review": false,
+    "needs_review_reasons": []
+  },
+  {
+    "id": "noid-245",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "全面式面罩的正壓、自攜式呼吸器(SCBA)。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source"
+    ]
+  },
+  {
+    "id": "noid-245-b",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "防蒸氣、全罩式的抗化衣。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-d",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "足尖和小腿處堅硬處理的抗化靴。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-f",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "雙向無線電（配掛在抗化衣內）。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-g",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "堅硬的帽子（穿戴在抗化衣內，非必須）。",
+    "answer": "【解釋名詞】",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-h",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "雇主：",
+    "answer": "事業主或事業之經營負責人。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-i",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "工作者：",
+    "answer": "指勞工、自營作業者及其他受工作場所負責人指揮或監督從事勞動之人員。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-j",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "自營作業者：",
+    "answer": "指獨立從事勞動或技藝工作，獲致報酬，且未僱用有酬人員幫同工作者。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-k",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "其他受工作場所負責人指揮或監督從事勞動之人員：",
+    "answer": "指與事業單位無僱傭關係，於其工作場所從事勞動或以學習技能、接受職業訓練為目的\n從事勞動之工作者。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-l",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "工作場所負責人：",
+    "answer": "指雇主或於該工作場所代表雇主從事管理、指揮或監督工作者從事勞動之人。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-m",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "職業災害：",
+    "answer": "指因勞動場所之建築物、機械、設備、原料、材料、化學品、氣體、蒸氣、粉塵等或作\n業活動及其他職業上原因引起之工作者疾病、傷害、失能或死亡。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-n",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "共同作業：",
+    "answer": "係指事業單位與承攬人、再承攬人所僱用之勞工於同一期間、同一工作場所從事工作。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-o",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "局限空間：",
+    "answer": "指非供勞工在其內部從事經常性作業，勞工進出方法受限制，且無法以自然通風來維持\n充分、清淨空氣之空間。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-p",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "勞動場所：指下列場所之一",
+    "answer": "(1)於勞動契約存續中，由雇主所提示，使勞工履行契約提供勞務之場所。 \n(2)自營作業者或其他受工作場所負責人指揮或監督從事勞動之人員，實際從事勞動之場\n所。 \n(3)其他經中央主管機關公告指定之場所。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-q",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "工作場所：",
+    "answer": "指勞動場所中，接受雇主或代理雇主指示處理有關勞工事務之人所能支配、管理之場所。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-r",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "作業場所：指工作場所中，從事特定之工作目的所設之場所。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-s",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "合理可行範圍：",
+    "answer": "指依本法及有關安全衛生法令、指引、實務規範或一般社會通念，雇主明知或可得而知\n勞工所從事之工作，有致其生命、身體及健康受危害之虞，並可採取必要之預防設備或\n措施者。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-t",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "應於八小時內通報勞動檢查機構：",
+    "answer": "指事業單位明知或可得而知已發生規定之職業災害事實起八小時內，應向其事業單位所\n在轄區之勞動檢查機構通報。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-u",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "體格檢查：",
+    "answer": "係指於僱用勞工時，為識別勞工工作適性，考量其是否有不適合作業之疾病所實施之健\n康檢查。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-v",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "一般健康檢查：",
+    "answer": "係指雇主對在職勞工，為發現健康有無異常，以提供適當健康指導、適性配工等健康管\n理措施，依其年齡於一定期間或變更其工作時所實施者。。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-w",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "危害性化學品之清單：",
+    "answer": "指記載化學品名稱、製造商或供應商基本資料、使用及貯存量等項目之清冊或表單。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-x",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "危害性化學品之安全資料表：",
+    "answer": "指記載化學品名稱、製造者或供應者基本資料、危害特性、緊急處理及危害預防措施等\n項目之表單。 \n\nHsiao 的工安部屋 \n248 of 249  \n115/03/27",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-y",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "作業環境監測：",
+    "answer": "指為掌握勞工作業環境實態與評估勞工暴露狀況，所採取之規劃、採樣、測定、分析及\n評估。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-349",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "長期夜間工作定義有兩種，一種以「日數」算，晚上10 點到隔天上午6 點，每次工作3",
+    "answer": "小時以上，這樣的工作日數達到每個月二分之一以上，1 年內達6 個月；另一種以「時\n數」算，晚上10 點到隔天上午6 點期間工作，整年度達到700 小時以上。符合上述定\n義其一，就屬長期夜間工作，不論全職或時薪人員。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-350",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "輪班工作：",
+    "answer": "指事業單位之工作型態需由勞工於不同時間輪替工作，且其工作時間不定時日夜輪替可\n能影響其睡眠之工作。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-351",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "夜間工作：指工作時間於午後10 時至翌晨6 時內，可能影響其睡眠之工作。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-352",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "長時間工作：指近6 個月期間，每月平均加班工時超過45 小時者。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-353",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "熱指數：指透過溫度及相對濕度評估對人體造成熱壓力之指標。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-354",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "熱壓力：",
+    "answer": "指逾量生理代謝熱能、作業環境因子（包含空氣溫度、濕度、風速及輻射熱）及衣著量\n等作用，對人體所造成之熱負荷影響。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-355",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "熱危害風險等級：指特定熱指數值所對應之危害風險等級。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-356",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "重體力作業：指重體力勞動作業勞工保護措施標準所稱重體力勞動作業。",
+    "answer": "",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-357",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "職場霸凌：指勞工於勞動場所執行職務，因其事業單位人員利用職務或權勢等關係，逾",
+    "answer": "越業務上必要且合理範圍，持續以冒犯、威脅、冷落、孤立、侮辱或其他不當之言詞或\n行為，致其身心健康遭受危害。但情節重大者，不以持續發生為必要。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-358",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "執行職務因他人行為遭受身體或精神不法侵害之範圍：",
+    "answer": "指勞工因執行職務，於勞動場所遭受雇主、主管、同事、服務對象或其他第三方之不法\n侵害行為，例如職場暴力或性騷擾等。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-359",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "母性健康保護：",
+    "answer": "指對於女性勞工從事有母性健康危害之虞之工作所採取之措施，包括危害評估與控制、\n醫師面談指導、風險分級管理、工作適性安排及其他相關措施。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-360",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "母性健康保護期間：",
+    "answer": "指雇主於得知女性勞工妊娠之日起至分娩後1 年之期間。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-361",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "火焰點,著火點(fire point):",
+    "answer": "當液體表面之蒸氣濃度超過到燃爆下限，於火源靠近其表面時，會使其產生持續燃燒之\n最低液體溫度。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-362",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "閃火點：",
+    "answer": "係指能使引火性液體蒸發或揮發性固體昇華所產生的混合空氣一接觸火源就產生小火的\n最低溫度。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-363",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "爆炸界限：",
+    "answer": "可分為爆炸線線及爆炸上限，係指若氣體或蒸汽或可燃性粉塵在空氣中的濃度介於此二\n者之間，一但有火源，便可能引起火焰燃燒，在密閉空間或特殊條件下可能引起爆炸，\n因此，爆炸界限亦即燃燒界限。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-364",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "自燃溫度：",
+    "answer": "係指物質不接觸火焰而能自行燃燒的最低溫度。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-365",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "高壓室內作業：",
+    "answer": "指沈箱施工法或壓氣潛盾施工法及其他壓氣施工法中，於表壓力超過大氣壓之作業室或\n豎管內部實施之作業。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-366",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "潛水作業：",
+    "answer": "指使用潛水器具之水肺或水面供氣設備等，於水深超過10公尺之水中實施之作業。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-367",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "化學文摘設登記號碼(CAS No.)",
+    "answer": "美國化學文摘社(Chemical Abstracts Service)在編製化學摘要(CA)時，為便於確認同一\n種化學物質，故對每一個化學品編訂註冊登記號碼(CAS. NO.)，一個號碼只代表一種化\n合物，若有異構物則給予不同編號，已通用於國際上，故查詢之正確性高，極適合作為\n資料查詢的索引號碼，因其一個號碼只代表一種化合物，故對化學品的確認與資料查詢\n的索引有很大的用處。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-368",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "生物暴露指標(BEIs)",
+    "answer": "（Biological Exposure Indices, BEIs）係指大多數勞工暴露在相當於容許濃度之化學物\n質環境下，可預期正常勞工在此暴露下之生物指標值（血液、尿液、呼出氣體、毛髮或\n指甲中的濃度）。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-369",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "生物濃縮係數(BCF)",
+    "answer": "(Bioconcentration factor, BCF)某種具生物濃縮性質之化學物質對單一生物體或生物細\n胞的濃縮特性；BCF 值越大者，生物累積之效果愈大。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-370",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "半致死劑量LD50：",
+    "answer": "係指給予試驗動物組群一定劑量(mg/kg)的化學物質，觀察14 天，能使試驗動物組群半\n數(50%)死亡的劑量。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-371",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "半致死濃度LC50：",
+    "answer": "係指在固定濃度下，暴露一定時間(通常1-4 小時)後，觀察14 天，能使試驗動物組群半\n數(50%)死亡的濃度。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-372",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "有害物質濃度表示方法",
+    "answer": "1) ﹪ ： 氣態有害物質所佔之體積百分率。 \n2)ppm(Part per million)：百萬分比，指溫度在攝氏25 度、一大氣壓條件下，每立方公\n尺空氣中氣態有害物質之立方公分數。 \n表示氣體在分成一百萬份後之比例濃度，以進一步將體積或莫耳百分比的詞細分，百\n萬分之一莫耳或體積比百萬分之一等於0.0001%。 \n3)mg/m3：指溫度在攝氏25 度、一大氣壓條件下，每立方公尺空氣中有害物質之毫克數 \n4)f/c.c：指溫度在攝氏25 度、一大氣壓條件下，每立方公分纖維根數。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
+  },
+  {
+    "id": "noid-245-373",
+    "category": "解釋名詞",
+    "subcategory": null,
+    "question": "有害物容許濃度定義",
+    "answer": "1) 八小時日時量平均容許濃度(PEL-TWA) ： \n   為勞工每天工作八小時，一般勞工重複暴露此濃度以下，不致有不良反應者。 \n2) 短時間時量平均容許濃度：(PEL-STEL)  \n   為一般勞工連續暴露在此濃度以下任何十五分鐘，不致有~ \n 不可忍受之刺激、 \n 慢性或不可逆之組織病變、 \n 麻醉昏暈作用、 \n 事故增加之傾向或工作效率之降低者。 \n3) 最高容許濃度：(PEL-C)  \n   為不得使一般勞工有任何時間超過此濃度之暴露，以防勞工不可忍受之刺激或生理病\n變者。",
+    "points": null,
+    "points_raw": [],
+    "source": "",
+    "page": 245,
+    "needs_review": true,
+    "needs_review_reasons": [
+      "glossary_fallback_no_source",
+      "id_collision_resolved"
+    ]
   }
 ]
